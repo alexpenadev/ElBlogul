@@ -1,5 +1,5 @@
 ---
-title: The road out of Hell
+title: First Post
 description: This is the first part of tutorial hell
 tags: post
 date: 2021-08-10
